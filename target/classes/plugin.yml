@@ -1,0 +1,8 @@
+name: SimpleGamemode
+version: '1.0-SNAPSHOT'
+main: at.maurice.simplegamemode.Main
+api-version: '1.20'
+authors: [LabyScript]
+description: Simple Gamemode
+commands:
+  gm:
